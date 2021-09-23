@@ -16,8 +16,8 @@ SoftwareSerial esp(6,7); // 6 rx, 7 tx
 
 
 
-String ssid = "Home"; 
-String pwd = "FHUfXZuazPy";
+String ssid = "****"; 
+String pwd = "**********";
 String WriteAPIKey = "A4M8M8YYW07MF7PI"; 
 String Port = "80"; 
 String Host = "api.thingspeak.com"; 
